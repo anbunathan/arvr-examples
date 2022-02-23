@@ -1,0 +1,2 @@
+library - 750mb (packagecache=550mb)
+packages - 250mb (vuforia engine=250mb)
